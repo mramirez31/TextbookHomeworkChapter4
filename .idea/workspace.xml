@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221376b1-c40a-4a33-8e25-bb2adf52a4e3" name="Changes" comment="In file lexicographic I fixed a problem with my code where it now runs all code provided and doesn't just stop at random times.&#10;&#10;I put in all my descriptions for all of my files." />
+    <list default="true" id="221376b1-c40a-4a33-8e25-bb2adf52a4e3" name="Changes" comment="All classes completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678781509848</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All classes completed">
+      <created>1678781603053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678781603053</updated>
+    </task>
+    <task id="LOCAL-00003" summary="All classes completed">
+      <created>1678781807620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678781807620</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="In file lexicographic I fixed a problem with my code where it now runs all code provided and doesn't just stop at random times.&#10;&#10;I put in all my descriptions for all of my files." />
-    <option name="LAST_COMMIT_MESSAGE" value="In file lexicographic I fixed a problem with my code where it now runs all code provided and doesn't just stop at random times.&#10;&#10;I put in all my descriptions for all of my files." />
+    <MESSAGE value="All classes completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="All classes completed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TextbookHomeworkChapter4$StudentGrades.ic" NAME="StudentGrades Coverage Results" MODIFIED="1677570301729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
