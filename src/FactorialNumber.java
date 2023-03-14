@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @Course: ITEC 2140 section 05, spring 2023
  * @Written: March 14, 2023
  * @Description: This program ask for the user to enter a number that will then
- * be put into the program where it will loop until it reaches its factorial number
+ * be put into the program where it will loop until it reaches its factorial number.
  *
  */
 public class FactorialNumber {

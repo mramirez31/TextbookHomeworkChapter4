@@ -34,7 +34,7 @@ public class LexicographicOrder {
             System.out.println("String 1 " + str1 + " is equal to String 2 " + str2);
 
         int charOrder = str1.compareTo(str2);
-        if(charOrder < 0 ){
+        if(charOrder < 0){
             System.out.println("String 1 " + str1 + " appears before string 2 " + str2 + " in lexicographic order");
             System.out.println("New sentence is: " + str1 + " " + str2);
         }
