@@ -10,7 +10,6 @@ import java.util.Scanner;
  * go through the string and look for the last time the character provided last occurred and will count where it last occurred and that
  * will display as the index and print out a statement where is its last occurrence of the character was in the string and what is index was
  * and if the user gives a character that is not in the string then that will equal negative one as there is nowhere in the string it occurred.
- *
  */
 public class CharacterAndStringValue {
     public static void main(String[] args) {

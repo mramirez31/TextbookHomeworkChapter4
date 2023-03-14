@@ -11,7 +11,6 @@ import java.util.Scanner;
  * and then will move on to the compare part of the program where it will then see
  * if both are equal or if one of the string comes before the other string
  * that will then generate a new sentence from the strings given by the user.
- *
  */
 public class LexicographicOrder {
     public static void main(String[] args) {

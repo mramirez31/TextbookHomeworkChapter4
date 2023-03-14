@@ -5,7 +5,6 @@
  * @Course: ITEC 2140 section 05, spring 2023
  * @Written: March 14, 2023
  * @Description: This program will create a pattern of asterisk for six rows.
- *
  */
 public class PatternAsterisk {
     public static void main(String[] args) {

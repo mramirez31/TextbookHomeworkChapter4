@@ -9,7 +9,6 @@ import java.util.Scanner;
  * @Description: This program will ask for the user to put a total of how many student's there are in the class
  * and then ask for the grades and will then determine which student had the highest grade in the class and which had the lowest
  * and will give the results to the user.
- *
  */
 
 public class HighestAndLowestGrade {

@@ -8,7 +8,6 @@ import java.util.Scanner;
  * @Written: March 14, 2023
  * @Description: This program ask for the user to enter a number that will then
  * be put into the program where it will loop until it reaches its factorial number.
- *
  */
 public class FactorialNumber {
     public static void main(String[] args) {

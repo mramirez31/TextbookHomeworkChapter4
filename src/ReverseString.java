@@ -10,7 +10,6 @@ import java.util.Scanner;
  * and that will then be made to show the reverse of the word and then be put into the for statement where it
  * will determine if the string value and the reverse string value are equal or not and print out a
  * statement saying if they are equal or not and print out a statement showing the original string and showing it reverse with it.
- *
  */
 public class ReverseString {
     public static void main(String[] args) {
